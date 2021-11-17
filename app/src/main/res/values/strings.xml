@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationOut</string>
+    <string name="tracking">Tracking...</string>
+    <string name="track">Track</string>
+    <string name="out">out.</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="remove_updates">Remove Updates</string>
+</resources>

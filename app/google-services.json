@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123564406103",
+    "project_id": "locationout-1f330",
+    "storage_bucket": "locationout-1f330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123564406103:android:fce6d320a2b087b509ba12",
+        "android_client_info": {
+          "package_name": "com.example.locationout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123564406103-njkl9ifpcli9od9iknfnklkvti28vigo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFU6_-mJL-_KC54GaRw0JTkXvN5pczyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123564406103-njkl9ifpcli9od9iknfnklkvti28vigo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
